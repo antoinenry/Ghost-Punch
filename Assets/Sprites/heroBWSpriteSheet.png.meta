@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 9d001506b06c6a644a28c8d5fb93a011
+timeCreated: 1442965046
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heroBWSpriteSheet_0
+    21300002: heroBWSpriteSheet_1
+    21300004: heroBWSpriteSheet_2
+    21300006: heroBWSpriteSheet_3
+    21300008: heroBWSpriteSheet_4
+    21300010: heroBWSpriteSheet_5
+    21300012: heroBWSpriteSheet_6
+    21300014: heroBWSpriteSheet_7
+    21300016: heroBWSpriteSheet_8
+    21300018: heroBWSpriteSheet_9
+    21300020: heroBWSpriteSheet_10
+    21300022: heroBWSpriteSheet_11
+    21300024: heroBWSpriteSheet_12
+    21300026: heroBWSpriteSheet_13
+    21300028: heroBWSpriteSheet_14
+    21300030: heroBWSpriteSheet_15
+    21300032: heroBWSpriteSheet_16
+    21300034: heroBWSpriteSheet_17
+    21300036: heroBWSpriteSheet_18
+    21300038: heroBWSpriteSheet_19
+    21300040: heroBWSpriteSheet_20
+    21300042: heroBWSpriteSheet_21
+    21300044: heroBWSpriteSheet_22
+    21300046: heroBWSpriteSheet_23
+    21300048: heroBWSpriteSheet_24
+    21300050: heroBWSpriteSheet_25
+    21300052: heroBWSpriteSheet_26
+    21300054: heroBWSpriteSheet_27
+    21300056: heroBWSpriteSheet_28
+    21300058: heroBWSpriteSheet_29
+    21300060: heroBWSpriteSheet_30
+    21300062: heroBWSpriteSheet_31
+    21300064: heroBWSpriteSheet_32
+    21300066: heroBWSpriteSheet_33
+    21300068: heroBWSpriteSheet_34
+    21300070: heroBWSpriteSheet_35
+    21300072: heroBWSpriteSheet_36
+    21300074: heroBWSpriteSheet_37
+    21300076: heroBWSpriteSheet_38
+    21300078: heroBWSpriteSheet_40
+    21300080: heroBWSpriteSheet_42
+    21300082: heroBWSpriteSheet_44
+    21300084: heroBWSpriteSheet_46
+    21300086: heroBWSpriteSheet_48
+    21300088: heroBWSpriteSheet_50
+    21300090: heroBWSpriteSheet_51
+    21300092: heroBWSpriteSheet_53
+    21300094: heroBWSpriteSheet_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: heroBWSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1536
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1280
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1280
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1280
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1280
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1280
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1280
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1280
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1280
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1024
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 768
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 768
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 768
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 768
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 768
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 768
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 768
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 768
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 512
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 512
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 256
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 256
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 256
+        width: 141
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroBWSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 282
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
