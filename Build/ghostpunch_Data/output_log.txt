@@ -6,22 +6,22 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     2016 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.665 seconds
-Platform assembly: H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: H:\Unity\Ghost Punch\Build\ghostpunch_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\Gunther\Sources\Ghost Punch\Build\ghostpunch_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.059728 ms
+UnloadTime: 0.558231 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 30b0 -> priority: 1 
-  Thread -> id: 2798 -> priority: 1 
+  Thread -> id: 3100 -> priority: 1 
+  Thread -> id: 1150 -> priority: 1 
